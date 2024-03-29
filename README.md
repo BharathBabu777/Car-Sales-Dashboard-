@@ -1,6 +1,6 @@
 Project Title: Car Sales Dashboard
 
-- [Project Execution Video](https://drive.google.com/drive/folders/10UVy6o3VdD4cjK6cnBBvbf4OYjvNpwgh)
+- [Project Execution Video](https://drive.google.com/drive/folders/10UVy6o3VdD4cjK6cnBBvbf4OYjvNpwgh) 
 
 Introduction: Welcome to the Car Sales Dashboard project! This Tableau dashboard offers a detailed analysis of car sales data, including insights into total sales revenue, cars sold, and average selling price. Explore weekly sales trends, model-wise performance, color preferences, regional impact, and company-specific trends for a comprehensive view of the car sales landscape.
 
